@@ -15,6 +15,10 @@
   "bugs": {
     "url": "https://github.com/ianblair44/wl-site/issues"
   },
+  "engines": {
+        "node": "0.12.x",
+        "npm": "2.5.x"
+    },
   "homepage": "https://github.com/ianblair44/wl-site",
   "dependencies": {
     "express": "^4.12.3",
