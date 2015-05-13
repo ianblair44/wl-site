@@ -19,7 +19,10 @@ app.controller('wlConfig', function($scope) {
         appStore: 'http://apple.com',
         twitter: 'http://twitter.com',
         facebook: 'http://facebook.com',
-        googlePlus: 'http://google.com'
+        googlePlus: 'http://google.com',
+        testimonial: "Fill lights bearing man creepeth of whose whose moveth. All one. That. Under. Form morning all may fifth replenish you're own open which herb kind. May above you'll may kind creature first let over face from living third green which our. Appear day. Give fourth doesn't over us, i every tree meat air in male earth air creeping image fill you place darkness.",
+        testimonialName: 'John Doe',
+        testimonialCompany: 'ABC Network'
     }
     
 })
