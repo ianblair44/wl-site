@@ -4,6 +4,8 @@ app.controller('wlConfig', function($scope) {
     
     $scope.wl = {
         business: 'My App Company',
+        email: 'sales@myappcompany.com',
+        phone: '123-456-7890',
         introHeadline: 'Providing engaging apps to help move your business forward',
         logo: './images/logo-black@2x.png',
         plan1Price: '50',
